@@ -20,3 +20,4 @@ To bootstrap the site run
 zensical new .
 ```
 
+datamgt-davies.Docs-diagrams-demo.io
