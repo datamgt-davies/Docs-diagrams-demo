@@ -1,0 +1,16 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Docs-diagrams-demo\nAbility to demonstrate AI compatible documentation\n\n## Initial Instructions\n\n```bash\nuv init\nuv add --dev zensical\nuv run zensical\n```\nThen activate the virtual environment\n\n```bash\nsource .venv/bin/activate\n```\n\nTo bootstrap the site run\n\n```bash\nzensical new .\n```\n\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision beed480568735a6d44bf37e2b3244e7d1b3be6d7)
++++ b/README.md	(date 1792934703750)
+@@ -20,3 +20,5 @@
+ zensical new .
+ ```
+ 
++
++
